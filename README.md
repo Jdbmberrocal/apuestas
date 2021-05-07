@@ -1,2 +1,2 @@
 # apuestas
- PLantilla para llevar el historial de tus apuestas
+ Plantilla para llevar el historial de tus apuestas
